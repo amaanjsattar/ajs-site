@@ -1,12 +1,46 @@
 ---
-title: "ajs-site"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
+title: "Amaan J. Sattar"
+format: html
 page-layout: full
-title-block-banner: true
 ---
+
+::::: hero-wrapper
+<!-- LEFT COLUMN -->
+
+::: hero-left
+<img src="profile.jpg" alt="Amaan J. Sattar" class="profile-pic"/>
+
+<h1>Amaan J. Sattar</h1>
+
+<p>Graduate Student in Biostatistics<br>UCLA Fielding School of Public Health</p>
+
+{{< include _contact.html >}}
+:::
+
+<!-- RIGHT COLUMN -->
+
+::: hero-right
+<p>I am a graduate student at UCLA studying biostatistics, with interests in biomarker evaluation, survival analysis, chronic disease epidemiology, and STEM accessibility.</p>
+
+<p>I care deeply about using data and statistical reasoning to inform impactful public health research and policy. Welcome to my academic website — here you’ll find more about my background, updates, and selected work.</p>
+:::
+:::::
+
+------------------------------------------------------------------------
+
+::: grid-two
+### Interests
+
+-   Biomarker Evaluation\
+-   Survival Analysis\
+-   Chronic Disease Epidemiology\
+-   STEM Accessibility
+
+### Education
+
+**M.S. in Biostatistics**, 2024–Present\
+UCLA Fielding School of Public Health
+
+**B.A. in Public Health & Data Science**, 2020–2024\
+University of California, Berkeley
+:::

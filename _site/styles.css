@@ -1,1 +1,98 @@
-/* css styles */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Playfair+Display:wght@600&display=swap');
+
+body {
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+  line-height: 1.75;
+  color: #333;
+  background-color: #fff;
+  max-width: 1000px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 600;
+  color: #222;
+}
+
+.hero-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+.hero-left {
+  flex: 1;
+  min-width: 220px;
+  max-width: 260px;
+  text-align: center;
+}
+
+.profile-pic {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid #f7c948;
+  margin-bottom: 1rem;
+}
+
+.hero-left h1 {
+  font-size: 1.5rem;
+  margin: 0.5rem 0 0.25rem 0;
+}
+
+.hero-left p {
+  margin: 0.25rem 0;
+  font-size: 0.95rem;
+}
+
+.hero-right {
+  flex: 2;
+  min-width: 280px;
+}
+
+.contact-list {
+  font-size: 0.95rem;
+  margin-top: 1rem;
+  line-height: 1.6;
+}
+
+.contact-icons {
+  margin-top: 0.5rem;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.contact-icons a {
+  font-size: 1.4rem;
+  color: #444;
+  transition: color 0.2s ease;
+}
+
+.contact-icons a:hover {
+  color: #1a73e8;
+}
+
+.grid-two {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+@media (max-width: 768px) {
+  .hero-wrapper {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .grid-two {
+    grid-template-columns: 1fr;
+  }
+}

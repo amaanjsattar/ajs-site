@@ -2,16 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "ajs-site",
+    "title": "Amaan J. Sattar",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 16, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 13, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Amaan J. Sattar\n\n\nGraduate Student in BiostatisticsUCLA Fielding School of Public Health\n\n\n Los Angeles, CA\n\n\n        \n\n\n\n\n\nI am a graduate student at UCLA studying biostatistics, with interests in biomarker evaluation, survival analysis, chronic disease epidemiology, and STEM accessibility.\n\n\nI care deeply about using data and statistical reasoning to inform impactful public health research and policy. Welcome to my academic website — here you’ll find more about my background, updates, and selected work.\n\n\n\n\n\n\nInterests\n\nBiomarker Evaluation\n\nSurvival Analysis\n\nChronic Disease Epidemiology\n\nSTEM Accessibility\n\n\n\nEducation\nM.S. in Biostatistics, 2024–Present\nUCLA Fielding School of Public Health\nB.A. in Public Health & Data Science, 2020–2024\nUniversity of California, Berkeley"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -21,10 +14,24 @@
     "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "About this blog"
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Amaan J. Sattar",
+    "section": "News",
+    "text": "News\n\nApr 2025 — Launched this site!\n\nSummer 2025 — Excited to join [Your Internship/Firm]\n\nFall 2024 — Currently working on a project related to [XYZ topic]"
+  },
+  {
+    "objectID": "index.html#featured-work",
+    "href": "index.html#featured-work",
+    "title": "Amaan J. Sattar",
+    "section": "Featured Work",
+    "text": "Featured Work\nWork in progress — check back soon for research notes and updates."
   }
 ]
