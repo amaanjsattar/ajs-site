@@ -1,5 +1,5 @@
 ---
-title: "Amaan J. Sattar"
+title: ""
 format: html
 page-layout: full
 ---
@@ -20,9 +20,11 @@ page-layout: full
 <!-- RIGHT COLUMN -->
 
 ::: hero-right
-<p>I am a graduate student at UCLA studying biostatistics, with interests in biomarker evaluation, survival analysis, chronic disease epidemiology, and STEM accessibility.</p>
+<p> Hi! Thanks for stopping by my website!
 
-<p>I care deeply about using data and statistical reasoning to inform impactful public health research and policy. Welcome to my academic website — here you’ll find more about my background, updates, and selected work.</p>
+My name is Amaan, and I'm a first-year Biostatistics graduate student at the UCLA Fielding School of Public Health. My current research interests include genomic data analysis, chronic disease epidemiology, survival analysis, and clinical trial design. These interests remain in perpetual refinement, and I'm eager to explore a variety of biostatistical research avenues as I navigate my graduate education.</p>
+
+<p>I recently completed my undergraduate studies in Public Health and Data Science at UC Berkeley. During my undergraduate years, I was </p>
 :::
 :::::
 
