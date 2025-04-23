@@ -4,13 +4,13 @@ format: html
 page-layout: full
 ---
 
-::::: hero-wrapper
+::::::: hero-wrapper
 <!-- LEFT COLUMN -->
 
 ::: hero-left
 <img src="profile.jpg" alt="Amaan J. Sattar" class="profile-pic"/>
 
-<h1>Amaan J. Sattar</h1>
+<h1>Amaan Jogia-Sattar</h1>
 
 <p>Graduate Student in Biostatistics<br>UCLA Fielding School of Public Health</p>
 
@@ -19,32 +19,37 @@ page-layout: full
 
 <!-- RIGHT COLUMN -->
 
+::::: hero-right
+:::: hero-wrapper
 ::: hero-right
-<p> Hi! Thanks for stopping by my website!
+<h2>About me </h2>
 
-My name is Amaan, and I'm a first-year Biostatistics graduate student at the UCLA Fielding School of Public Health. My current research interests include genomic data analysis, chronic disease epidemiology, survival analysis, and clinical trial design. These interests remain in perpetual refinement, and I'm eager to explore a variety of biostatistical research avenues as I navigate my graduate education.</p>
+<p>Hi, and thanks for stopping by! I’m Amaan, a first-year graduate student in [Biostatistics](https://ph.ucla.edu/departments/biostatistics) at the [UCLA Fielding School of Public Health](https://ph.ucla.edu). I’m interested in how statistical methods can be used to answer meaningful questions in public health and medicine—especially in the areas of genomic data analysis, chronic disease epidemiology, survival analysis, and clinical trial design. These interests are still evolving as I dive deeper into the field.</p>
 
-<p>I recently completed my undergraduate studies in Public Health and Data Science at UC Berkeley. During my undergraduate years, I was fortunate to enrich my academic experience through various research opportunities. In the summer of 2022, I was a participant in the Big Data Summer Institute, an NIH/NHLBI-sponsored Summer Institute in Biostatistics (SIBS) program at the University of Michigan. There, I conducted explainable artificial intelligence (XAI) research supervised by Dr. Nikola Banovic (Electrical Engineering & Computer Science). We adapted the LIME and SHAP frameworks for compatibility with multisequence MRI input and a brain tumor segmentation task. We sought to leverage these XAI techniques beyond within the segmentation domain by framing tumor segmentation as a binary pixel classification task and tracing the decision boundary. You can learn more about this project here! </p>
+<p>I earned my undergraduate degree from [UC Berkeley](https://www.berkeley.edu) (Go Bears!), where I majored in [Public Health](https://publichealth.berkeley.edu) and minored in [Data Science](https://cdss.berkeley.edu). My research there centered around applying quantitative tools to health problems, including projects in survival analysis, gene expression data analysis, machine learning, and tumor segmentation. You can learn more about some of that work <a href="#">here</a>.</p>
+
+<p>I was born and raised in sunny Los Angeles, CA, and I’m excited to back in my hometown for graduate school. Outside of academics, I enjoy playing tennis, spending time with my dog Louie, exploring the city with friends, and trying to become a semi-competent cook.</p>
 :::
+::::
 :::::
+:::::::
 
 ------------------------------------------------------------------------
 
 ::: grid-two
 ### Research Interests
 
--   Biomarker Evaluation\
--   Survival Analysis\
+-   Statistical Genetics \
 -   Chronic Disease Epidemiology\
--   Clinical Trial Design\
--   Genomics\
--   STEM Accessibility
+-   Biomarker Discovery and Evaluation\
+-   Clinical Trial Design
 
 ### Education
 
 **M.S. in Biostatistics**, 2024–2026\
-UCLA Fielding School of Public Health
+*UCLA Fielding School of Public Health*
 
-**B.A. in Public Health & Data Science**, 2020–2024\
-University of California, Berkeley
+**B.A. in Public Health, Minor in Data Science**, 2020–2024\
+*UC Berkeley School of Public Health\
+UC Berkeley College of Computing, Data Science, and Society*
 :::
